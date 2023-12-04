@@ -63,15 +63,3 @@ body{
 	color: #FFD700;
 }
 
-.card{
-	width: 33%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.round {
-    border-radius: 10px; /* Радиус скругления */
-    border: 1px solid gold; /* Параметры рамки */
-    box-shadow: 0 0 7px white; /* Параметры тени */
-   }
